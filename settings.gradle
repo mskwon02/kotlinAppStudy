@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "KUAppLacture"
+include ':app'
+include ':bmicalculate'
+include ':radiobuttonselect'
+include ':autocompletetextview'
+include ':textinputedittext'
+include ':customcomponent'
+include ':recyclerview'
+include ':implicitintent'
+include ':intentfilter'
+include ':pendingintent'
+include ':staticfragment'
+include ':dynamicfragment'
