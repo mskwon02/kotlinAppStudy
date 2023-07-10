@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autocompletetextview" />
+            <option value="$PROJECT_DIR$/bmicalculate" />
+            <option value="$PROJECT_DIR$/customcomponent" />
+            <option value="$PROJECT_DIR$/dynamicfragment" />
+            <option value="$PROJECT_DIR$/implicitintent" />
+            <option value="$PROJECT_DIR$/intentfilter" />
+            <option value="$PROJECT_DIR$/pendingintent" />
+            <option value="$PROJECT_DIR$/radiobuttonselect" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/staticfragment" />
+            <option value="$PROJECT_DIR$/textinputedittext" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
