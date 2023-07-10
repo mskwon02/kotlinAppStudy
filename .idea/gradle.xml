@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/pendingintent" />
             <option value="$PROJECT_DIR$/radiobuttonselect" />
             <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/staticfg_to_dynamicfg" />
             <option value="$PROJECT_DIR$/staticfragment" />
             <option value="$PROJECT_DIR$/textinputedittext" />
           </set>
