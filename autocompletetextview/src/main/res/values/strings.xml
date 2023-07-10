@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Autocompletetextview</string>
+    <string name="text_hint">나라 이름을 선택해 주세요.</string>
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American samoa</item>
+        <item>Andorra</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>CABelgium</item>
+        <item>한국</item>
+    </string-array>
+</resources>
